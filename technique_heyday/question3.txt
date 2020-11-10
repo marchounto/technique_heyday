@@ -1,0 +1,7 @@
+Une erreur 502 est généralement un probleme de communication au niveau du serveur. Entre autre il s'agit du fait qu'un serveur sur le web ait 
+reçu une mauvaise réponse de la part d'un autre.
+Dans un premier temps on pourrait demander au client de juste essayer des pratiques basiques comme recharger la page, recommencer sur un nouveau navigateur,
+effacer la cache du navigateur, effacer les cookies.
+Si le problème persiste , une bonne pratique selon moi serait de commencer par vérifier la réponse supposée envoyée afin de voir si elle est conforme.
+Dans le cas ou la situation  n'est toujours pas résolue on peut toujours vérifier   les logs au niveau  de vue serveur ,
+afin de s'assurer qu'il n y aurait pas une erreur auniveau du code qu'elle soit logique ou syntaxique.

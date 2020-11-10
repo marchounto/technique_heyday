@@ -1,0 +1,5 @@
+Protocole de sécurité pour le server:
+- Comme il s'agit de données sensibles, il faudrait un acces restreint  au server ainsi que des privilèges administrateurs.
+- Avoir un oeil vigilant sur les logs serveurs afin de mieux proteger l'application et etre au courant d'éventuelles attaques.
+- Garder l'applicatiomn à jour 
+-Utiliser des environnements séparés pour le developpement, les tests, et la mise en production.

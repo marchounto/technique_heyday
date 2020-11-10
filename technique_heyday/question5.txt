@@ -1,0 +1,6 @@
+Raisons possibles pour que Iframe ne s'affiche pas sur le site:
+- Les ressources ne sont pas chargées via https alors que la page elle-meme tourne sur HTTPS
+-une ressource ne pouvant pas etre utilisee ailleurs est utilisee
+- Une extension AD-block est activée sur le site web.
+- Le iframe n'est pas configuré pour afficher du cross domain 
+

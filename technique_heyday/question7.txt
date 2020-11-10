@@ -1,0 +1,2 @@
+-Les serveurs sur lesquels tournent  services sont très lents. Pour resoudre cela il faudrait analyser les interactions
+entre le client et les differents serveurs pour voir et reguler si possible le transfert de données.
